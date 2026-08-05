@@ -2,7 +2,7 @@
 
 pm @ amazon · fmr lockheed martin · mit sloan · uc berkeley · [linkedin](https://www.linkedin.com/in/mjgleason3)
 
-working toward lifelong learning, universal equality, and safe, aligned, trustworthy machines.
+lifelong learning, global equality, and safe autonomous machines.
 
 ## projects
 
