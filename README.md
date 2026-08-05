@@ -6,6 +6,7 @@ working toward lifelong learning, universal equality, and safe, aligned, trustwo
 
 ## projects
 
+0. **caradhras** (private) — my autonomous quant trading system, training gym, and research harness
 1. [col](https://github.com/mjgleason3/col) — continuous online learning: a cognitive-inspired playground for models that keep learning after deployment
 2. [wouf](https://github.com/mjgleason3/wouf) — write once, use forever: an energetic memory system for llm agents
 3. [vaas](https://github.com/mjgleason3/vaas) — vision as a service: a visual memory and attention layer for ai agents
