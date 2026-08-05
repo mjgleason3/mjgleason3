@@ -1,8 +1,10 @@
 # joe gleason iii
 
-pm @ amazon · fmr lockheed martin · mit sloan · uc berkeley · [linkedin](https://www.linkedin.com/in/mjgleason3)
+pm @ amazon · fmr lockheed martin · mit sloan · uc berkeley · 274th class of central high · philly boul · [linkedin](https://www.linkedin.com/in/mjgleason3)
 
-lifelong learning, global equality, and safe autonomous machines.
+/goal lifelong learning, global equality, and safe autonomous machines.
+
+/loop traveling, running, coffee, nba, soccer, quant, v&v, ai
 
 ## projects
 
